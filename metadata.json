@@ -1,0 +1,6 @@
+{
+  "name": "Aosa Cafe — Bakehouse & Roastery",
+  "description": "Artisanal specialty coffee roastery and slow-fermented bakehouse in Udaipur, Rajasthan. Single-origin coffees, handcrafted croissants, sourdough, and modern cafe dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
